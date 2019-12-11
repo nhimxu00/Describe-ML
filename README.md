@@ -1,2 +1,2 @@
-# Th-c-h-nh-C-
+# Thực Hành C
 day K14
