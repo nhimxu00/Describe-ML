@@ -1,2 +1,3 @@
-# Thực Hành C
-day K14
+# How to Machine Learning
+
+
